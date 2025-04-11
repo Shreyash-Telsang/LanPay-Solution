@@ -1,6 +1,4 @@
-# LANPay - Offline Payment Solution
-
-![LANPay Logo](assets/logo.png) <!-- Add if you have a logo -->
+# LANPay - Offline Payment Solution<!-- Add if you have a logo -->
 
 A blockchain-based offline payment system enabling secure transactions without internet connectivity, designed for rural and remote areas.
 
